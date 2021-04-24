@@ -1,9 +1,14 @@
 ### Hi there 👋
 
+
+I'm __Laura Mudge, Ph.D.__ *(she/her/hers)*. I'm an ecological, analyst, science communicator, SCUBA diver, mom, and weightlifter.</br> </br>
+
+* Find out more about my research & outreach interests on [my website](https://lmudge13.github.io/index.html) </br>
+* Follow me on [Twitter](https://twitter.com/elmudge3)
+
 <!--
 **Lmudge13/Lmudge13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
