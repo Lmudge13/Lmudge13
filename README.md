@@ -3,9 +3,9 @@
 
 I'm __Laura Mudge, Ph.D.__ *(she/her/hers)*. I'm an ecologist, analyst, science communicator, SCUBA diver, mom, and weightlifter.</br> </br>
 
-* Currently part of a cutting-edge environmental analytics team at Integral Consulting Inc. See what I'm up to [here](https://www.integral-corp.com/staff/laura-mudge/). </br>
-* Find out more about my research & outreach interests on [my website](https://lmudge13.github.io/index.html) </br>
-* Follow me on [Twitter](https://twitter.com/elmudge3)
+* Passionate about connecting people with their data to make insights for marine conservation. See what I'm up to [here](https://barefootocean.org/). </br>
+* Find out more about my PhD research & outreach interests on [my website](https://lmudge13.github.io/index.html) </br>
+* Follow me on [Twitter](https://twitter.com/elmudge3) or connect with me on [LinkedIn](https://www.linkedin.com/in/laura-mudge-0163245a/)
 
 <!--
 **Lmudge13/Lmudge13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
